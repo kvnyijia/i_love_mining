@@ -1,9 +1,8 @@
 #include <iostream>
 #include <iomanip>
-#include "keccak.h"
+#include "hash-library/keccak.h"
 #include <ctime>
 #include <boost/multiprecision/cpp_int.hpp>
-// #include <omp.h>
 #include <thread>
 
 using namespace std;
